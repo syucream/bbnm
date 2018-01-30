@@ -1,4 +1,4 @@
-# bbnm(ボブネミミッミ)
+# bbnm(ボブネミ*ッミ)
 
 THE NEW CORNER. :shit:
 
