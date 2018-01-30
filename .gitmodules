@@ -1,0 +1,3 @@
+[submodule "solidity-stringutils"]
+	path = solidity-stringutils
+	url = git@github.com:Arachnid/solidity-stringutils.git
